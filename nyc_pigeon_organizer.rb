@@ -1,3 +1,5 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  results = data.each_with_object ({}) | (key, value) final_array|
+  
+  
 end
